@@ -7,5 +7,5 @@
 - Nguyễn Thị Yến
 
 ##Mô tả đề tài của nhóm :
-Angluar2 component cho các loại câu hỏi trắc nghiệm, có trên http://edustore.com.vn/
+Đề tài công ty SOTATEK ( Mô phỏng ứng dụng Instagram có giảm thiếu và thêm một số chức năng )
 
